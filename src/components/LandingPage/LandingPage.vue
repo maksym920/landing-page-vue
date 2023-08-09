@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col justify-center">
     <FirstSection />
-    <div class="lg:mx-40 mx-0">
+    <div class="lg:mx-40 mx-0 flex justify-center">
       <img src="../../assets/image_platform.png" />
     </div>
     <CheckModules />
