@@ -1,5 +1,5 @@
 <template>
-  <div v-scroll-spy>
+  <div class="flex flex-col justify-center">
     <FirstSection />
     <div class="lg:mx-40 mx-0">
       <img src="../../assets/image_platform.png" />
