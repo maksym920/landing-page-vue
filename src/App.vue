@@ -1,7 +1,11 @@
 <template>
-  <AppHeader />
-  <router-view></router-view>
-  <AppFooter />
+  <div class="flex justify-center">
+    <div class="max-w-[1920px] w-full">
+      <AppHeader />
+      <router-view></router-view>
+      <AppFooter />
+    </div>
+  </div>
 </template>
 
 <script>
